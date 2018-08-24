@@ -1,0 +1,2 @@
+# TagsView
+tag为自定义的tagButton，title和imageView调换位置，可以自定义tag的样式。 tag接收title进行创建。 通过titles的title自动生成tag，并显示在tagView中。 tagView提供添加方法和更新frame的方法
